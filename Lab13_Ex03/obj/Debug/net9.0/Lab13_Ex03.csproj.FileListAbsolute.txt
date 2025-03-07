@@ -1,0 +1,15 @@
+D:\lab13_oop\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex03\obj\Debug\net9.0\Lab13_Ex03.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab13_oop\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex03\obj\Debug\net9.0\Lab13_Ex03.AssemblyInfoInputs.cache
+D:\lab13_oop\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex03\obj\Debug\net9.0\Lab13_Ex03.AssemblyInfo.cs
+D:\lab13_oop\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex03\obj\Debug\net9.0\Lab13_Ex03.csproj.CoreCompileInputs.cache
+D:\lab13_oop\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex03\obj\Debug\net9.0\Lab13_Ex03.sourcelink.json
+D:\lab13_oop\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex03\bin\Debug\net9.0\Lab13_Ex03.exe
+D:\lab13_oop\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex03\bin\Debug\net9.0\Lab13_Ex03.deps.json
+D:\lab13_oop\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex03\bin\Debug\net9.0\Lab13_Ex03.runtimeconfig.json
+D:\lab13_oop\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex03\bin\Debug\net9.0\Lab13_Ex03.dll
+D:\lab13_oop\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex03\bin\Debug\net9.0\Lab13_Ex03.pdb
+D:\lab13_oop\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex03\obj\Debug\net9.0\Lab13_Ex03.dll
+D:\lab13_oop\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex03\obj\Debug\net9.0\refint\Lab13_Ex03.dll
+D:\lab13_oop\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex03\obj\Debug\net9.0\Lab13_Ex03.pdb
+D:\lab13_oop\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex03\obj\Debug\net9.0\Lab13_Ex03.genruntimeconfig.cache
+D:\lab13_oop\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex03\obj\Debug\net9.0\ref\Lab13_Ex03.dll
